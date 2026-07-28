@@ -17,7 +17,7 @@ The vulnerability results from insufficient access control and excessive disclos
 <img width="1277" height="753" alt="5" src="https://github.com/user-attachments/assets/e1a0aa54-44a3-41e4-a8c7-8097da837c59" />
 <img width="1278" height="751" alt="6" src="https://github.com/user-attachments/assets/1913cc3a-6000-4901-b4d7-8822fe64645c" />
 <img width="1278" height="752" alt="7" src="https://github.com/user-attachments/assets/060d874a-4fcd-42bf-aed2-3511e6de4a1a" />
-<img width="1278" height="750" alt="8" src="https://github.com/user-attachments/assets/cb6a7862-86d1-4a91-a01a-95836646ed4d" />
+<img width="1278" height="750" alt="8 1" src="https://github.com/user-attachments/assets/be207ab3-3e9e-4002-a7ff-03fe65100a06" />
 
 # Impact
 
