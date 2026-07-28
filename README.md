@@ -8,6 +8,12 @@ By scanning the QR Code, an attacker is redirected to the official certificate v
 
 The vulnerability results from insufficient access control and excessive disclosure of personal information during the certificate validation process, allowing unauthorized retrieval of documents containing sensitive personal data.
 
+# Affected endpoint
+https://www.fiap.com.br/graduacao/consulta-publica-de-diplomas/?chave=@(Html.Raw(((java.lang.String)field_DadosRegistroSegurancaCodigoValidacao.getValue())))/
+
+# Payload Example
+Full Name and Birth Date
+
 # PoC
 
 <img width="970" height="744" alt="CVE FIAP" src="https://github.com/user-attachments/assets/66e64170-0551-453f-bcc9-58d335ffa1fb" />
